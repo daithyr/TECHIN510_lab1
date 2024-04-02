@@ -15,6 +15,7 @@ Before you begin, ensure you have the following installed:
 ### Create a Virtual Environment
 
 `python -m venv venv`
+
 `source venv/bin/activate`
 
 ### Install dependencies

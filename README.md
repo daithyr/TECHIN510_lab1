@@ -1,6 +1,6 @@
 # TECHIN510_lab1
 
-Welcome to the repository for my personal website, created as part of my assignment for TECHIN510. This website showcases my educational background, work experience, hobbies, and some interesting projects I've undertaken. C
+Welcome to the repository for my personal website, created as part of my assignment for TECHIN510. This website showcases my educational background, work experience, hobbies, and some interesting projects I've undertaken. 
 
 ## Getting Started
 
